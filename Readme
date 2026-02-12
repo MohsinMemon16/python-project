@@ -1,0 +1,12 @@
+Overview
+The AI Shopping Assistant is a console-based Python program that helps users browse products, search items, get recommendations, add products to a shopping cart, and calculate the total bill. The main goal of this project is to simulate a basic online shopping experience using simple Artificial Intelligence concepts such as filtering, recommendations, and user interaction. This project helps in understanding Python fundamentals including lists, dictionaries, functions, loops, and conditional statements.
+Project Structure
+The program starts by defining a list of products stored as dictionaries, each containing an ID, name, category, and price. Functions are created to display products, search products by name or category, recommend products based on budget or category, add items to a cart, and display the cart with the total bill. A main menu loop allows users to interact with the system by selecting options from the console, and the program continues running until the user chooses to exit.
+How to Run the Model
+To run the AI Shopping Assistant, first install Python 3.x on your system. Save the code in a Python file such as shopping_assistant.py. Open the terminal or command prompt and run the command python shopping_assistant.py. The program will display a menu and allow you to start shopping.
+Output
+The output of the program is displayed in the console. The user can view all available products, search for specific items, receive product recommendations, add items to the cart, view the total bill, and exit the program after completing shopping.
+
+Reference:
+https://www.python.org
+
